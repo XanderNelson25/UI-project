@@ -1,0 +1,40 @@
+name	description	rep_num	run	bases	bio_project	bio_sample	cultivar	dev_stage	experiment	isolate	library_name	organism	SRA_study	tissue
+lyc_dry	Ungerminated (dry) pollen	1	SRR3119173	3994885522	PRJNA309342	SAMN04431707	LA3475	ungerminated	SRX1544774	SOLLYC1	SOLLYC1-POL-D	Solanum lycopersicum	SRP068871	pollen
+lyc_dry	Ungerminated (dry) pollen	2	SRR3119179	3286200640	PRJNA309342	SAMN04431713	LA3475	ungerminated	SRX1544780	SOLLYC2	SOLLYC2-POL-D	Solanum lycopersicum	SRP068871	pollen
+lyc_dry	Ungerminated (dry) pollen	3	SRR3119185	3994763110	PRJNA309342	SAMN04431719	LA3475	ungerminated	SRX1544786	SOLLYC3	SOLLYC3-POL-D	Solanum lycopersicum	SRP068871	pollen
+lyc_germ	Germinated pollen	1	SRR3119174	4649546716	PRJNA309342	SAMN04431708	LA3475	germinated	SRX1544775	SOLLYC1	SOLLYC1-POL-G	Solanum lycopersicum	SRP068871	pollen
+lyc_germ	Germinated pollen	2	SRR3119180	5256077976	PRJNA309342	SAMN04431714	LA3475	germinated	SRX1544781	SOLLYC2	SOLLYC2-POL-G	Solanum lycopersicum	SRP068871	pollen
+lyc_germ	Germinated pollen	3	SRR3119186	5756599838	PRJNA309342	SAMN04431720	LA3475	germinated	SRX1544787	SOLLYC3	SOLLYC3-POL-G	Solanum lycopersicum	SRP068871	pollen
+lyc_pen	lyc pistils pollinated by pen pollen (interspeciﬁc compatibility)	1	SRR3119178	3126258656	PRJNA309342	SAMN04431712	LA0716\,LA3475	1 day after flowering	SRX1544779	SOLLYC1	SOLLYC1-STY-P	Solanum lycopersicum	SRP068871	style+pollen
+lyc_pen	lyc pistils pollinated by pen pollen (interspeciﬁc compatibility)	2	SRR3119184	2603649306	PRJNA309342	SAMN04431718	LA0716\,LA3475	1 day after flowering	SRX1544785	SOLLYC2	SOLLYC2-STY-P	Solanum lycopersicum	SRP068871	style+pollen
+lyc_pen	lyc pistils pollinated by pen pollen (interspeciﬁc compatibility)	3	SRR3119190	2610495288	PRJNA309342	SAMN04431724	LA0716\,LA3475	1 day after flowering	SRX1544791	SOLLYC3	SOLLYC3-STY-P	Solanum lycopersicum	SRP068871	style+pollen
+lyc_S-	Unpollinated pistils 1 days before ﬂowering time	1	SRR3119175	5298018832	PRJNA309342	SAMN04431709	LA3475	1 day before flowering	SRX1544776	SOLLYC1	SOLLYC1-STY-1	Solanum lycopersicum	SRP068871	style
+lyc_S-	Unpollinated pistils 1 days before ﬂowering time	2	SRR3119181	4314896548	PRJNA309342	SAMN04431715	LA3475	1 day before flowering	SRX1544782	SOLLYC2	SOLLYC2-STY-1	Solanum lycopersicum	SRP068871	style
+lyc_S-	Unpollinated pistils 1 days before ﬂowering time	3	SRR3119187	3918294192	PRJNA309342	SAMN04431721	LA3475	1 day before flowering	SRX1544788	SOLLYC3	SOLLYC3-STY-1	Solanum lycopersicum	SRP068871	style
+lyc_S+	Unpollinated pistils just after ﬂowering time	1	SRR3119176	4836312684	PRJNA309342	SAMN04431710	LA3475	1 day after flowering	SRX1544777	SOLLYC1	SOLLYC1-STY-0	Solanum lycopersicum	SRP068871	style
+lyc_S+	Unpollinated pistils just after ﬂowering time	2	SRR3119182	2995615762	PRJNA309342	SAMN04431716	LA3475	1 day after flowering	SRX1544783	SOLLYC2	SOLLYC2-STY-0	Solanum lycopersicum	SRP068871	style
+lyc_S+	Unpollinated pistils just after ﬂowering time	3	SRR3119188	3186452838	PRJNA309342	SAMN04431722	LA3475	1 day after flowering	SRX1544789	SOLLYC3	SOLLYC3-STY-0	Solanum lycopersicum	SRP068871	style
+lyc_self	Self-pollinated pistils just after ﬂowering time	1	SRR3119177	3902019254	PRJNA309342	SAMN04431711	LA3475	1 day after flowering	SRX1544778	SOLLYC1	SOLLYC1-STY-L	Solanum lycopersicum	SRP068871	style+pollen
+lyc_self	Self-pollinated pistils just after ﬂowering time	2	SRR3119183	4049869518	PRJNA309342	SAMN04431717	LA3475	1 day after flowering	SRX1544784	SOLLYC2	SOLLYC2-STY-L	Solanum lycopersicum	SRP068871	style+pollen
+lyc_self	Self-pollinated pistils just after ﬂowering time	3	SRR3119189	3599253776	PRJNA309342	SAMN04431723	LA3475	1 day after flowering	SRX1544790	SOLLYC3	SOLLYC3-STY-L	Solanum lycopersicum	SRP068871	style+pollen
+pen_dry	Ungerminated (dry) pollen	1	SRR3119152	4071199910	PRJNA309342	SAMN04431686	LA0716	ungerminated	SRX1544753	SOLPEN1	SOLPEN1-POL-D	Solanum pennellii	SRP068871	pollen
+pen_dry	Ungerminated (dry) pollen	2	SRR3119159	3866002250	PRJNA309342	SAMN04431693	LA0716	ungerminated	SRX1544760	SOLPEN2	SOLPEN2-POL-D	Solanum pennellii	SRP068871	pollen
+pen_dry	Ungerminated (dry) pollen	3	SRR3119166	3255823476	PRJNA309342	SAMN04431700	LA0716	ungerminated	SRX1544767	SOLPEN3	SOLPEN3-POL-D	Solanum pennellii	SRP068871	pollen
+pen_germ	Germinated pollen	1	SRR3119153	5100028734	PRJNA309342	SAMN04431687	LA0716	germinated	SRX1544754	SOLPEN1	SOLPEN1-POL-G	Solanum pennellii	SRP068871	pollen
+pen_germ	Germinated pollen	2	SRR3119160	5616986528	PRJNA309342	SAMN04431694	LA0716	germinated	SRX1544761	SOLPEN2	SOLPEN2-POL-G	Solanum pennellii	SRP068871	pollen
+pen_germ	Germinated pollen	3	SRR3119167	5143804760	PRJNA309342	SAMN04431701	LA0716	germinated	SRX1544768	SOLPEN3	SOLPEN3-POL-G	Solanum pennellii	SRP068871	pollen
+pen_lyc	pen pistils pollinated by lyc pollen (unilateral incompatibility)	1	SRR3119158	3624741530	PRJNA309342	SAMN04431692	LA0716\,LA3475	1 day after flowering	SRX1544759	SOLPEN1	SOLPEN1-STY-L	Solanum pennellii	SRP068871	style+pollen
+pen_lyc	pen pistils pollinated by lyc pollen (unilateral incompatibility)	2	SRR3119165	4990032260	PRJNA309342	SAMN04431699	LA0716\,LA3475	1 day after flowering	SRX1544766	SOLPEN2	SOLPEN2-STY-L	Solanum pennellii	SRP068871	style+pollen
+pen_lyc	pen pistils pollinated by lyc pollen (unilateral incompatibility)	3	SRR3119172	1427306144	PRJNA309342	SAMN04431706	LA0716\,LA3475	1 day after flowering	SRX1544773	SOLPEN3	SOLPEN3-STY-L	Solanum pennellii	SRP068871	style+pollen
+pen_S-	Unpollinated pistils 1 days before ﬂowering time	1	SRR3119155	3529876674	PRJNA309342	SAMN04431689	LA0716	1 day before flowering	SRX1544756	SOLPEN1	SOLPEN1-STY-1	Solanum pennellii	SRP068871	style
+pen_S-	Unpollinated pistils 1 days before ﬂowering time	1	SRR3119169	4600376886	PRJNA309342	SAMN04431703	LA0716	1 day before flowering	SRX1544770	SOLPEN3	SOLPEN3-STY-1	Solanum pennellii	SRP068871	style
+pen_S-	Unpollinated pistils 1 days before ﬂowering time	2	SRR3119162	4029277638	PRJNA309342	SAMN04431696	LA0716	1 day before flowering	SRX1544763	SOLPEN2	SOLPEN2-STY-1	Solanum pennellii	SRP068871	style
+pen_S-5	Unpollinated pistils 5 days before ﬂoweringtime (pen only)	1	SRR3119154	6400852982	PRJNA309342	SAMN04431688	LA0716	5 days before flowering	SRX1544755	SOLPEN1	SOLPEN1-STY-5	Solanum pennellii	SRP068871	style
+pen_S-5	Unpollinated pistils 5 days before ﬂoweringtime (pen only)	2	SRR3119161	3463543308	PRJNA309342	SAMN04431695	LA0716	5 days before flowering	SRX1544762	SOLPEN2	SOLPEN2-STY-5	Solanum pennellii	SRP068871	style
+pen_S-5	Unpollinated pistils 5 days before ﬂoweringtime (pen only)	3	SRR3119168	3504361448	PRJNA309342	SAMN04431702	LA0716	5 days before flowering	SRX1544769	SOLPEN3	SOLPEN3-STY-5	Solanum pennellii	SRP068871	style
+pen_S+	Unpollinated pistils just after ﬂowering time	1	SRR3119156	4879042754	PRJNA309342	SAMN04431690	LA0716	1 day after flowering	SRX1544757	SOLPEN1	SOLPEN1-STY-0	Solanum pennellii	SRP068871	style
+pen_S+	Unpollinated pistils just after ﬂowering time	2	SRR3119163	3360481090	PRJNA309342	SAMN04431697	LA0716	1 day after flowering	SRX1544764	SOLPEN2	SOLPEN2-STY-0	Solanum pennellii	SRP068871	style
+pen_S+	Unpollinated pistils just after ﬂowering time	3	SRR3119170	4416282772	PRJNA309342	SAMN04431704	LA0716	1 day after flowering	SRX1544771	SOLPEN3	SOLPEN3-STY-0	Solanum pennellii	SRP068871	style
+pen_self	Self-pollinated pistils just after ﬂowering time	1	SRR3119157	4702688068	PRJNA309342	SAMN04431691	LA0716	1 day after flowering	SRX1544758	SOLPEN1	SOLPEN1-STY-P	Solanum pennellii	SRP068871	style+pollen
+pen_self	Self-pollinated pistils just after ﬂowering time	2	SRR3119164	2569778552	PRJNA309342	SAMN04431698	LA0716	1 day after flowering	SRX1544765	SOLPEN2	SOLPEN2-STY-P	Solanum pennellii	SRP068871	style+pollen
+pen_self	Self-pollinated pistils just after ﬂowering time	3	SRR3119171	6831635354	PRJNA309342	SAMN04431705	LA0716	1 day after flowering	SRX1544772	SOLPEN3	SOLPEN3-STY-P	Solanum pennellii	SRP068871	style+pollen
